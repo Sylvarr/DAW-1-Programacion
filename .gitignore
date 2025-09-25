@@ -1,0 +1,19 @@
+/bin/
+# Archivos de configuración de Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos compilados y metadatos
+bin/
+.metadata/
+*.class
+*.jar
+*.war
+*.zip
+*.rar
+*.lock
+
+# Archivos específicos de entornos de usuario
+.DS_Store
+Thumbs.db
