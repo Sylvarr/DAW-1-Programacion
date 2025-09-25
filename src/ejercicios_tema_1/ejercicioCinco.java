@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*El usuario debe ingresar un número y el programa debe indicar si es positivo,
 negativo o cero.*/
 
-/*INICIO
+/* INICIO
  * pedir n
  * leer n
  * SI n = 0 entonces
