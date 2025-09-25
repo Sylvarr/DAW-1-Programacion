@@ -11,7 +11,8 @@ de todos los números enteros positivos hasta ese número).*/
  *Para i desde 1 hasta NUMERO hacer
  *FACTORIAL = FACTORIAL * i
  *Fin Para
- *Escribir "El factorial de" + NUMERO + " es:" + FACTORIAL*/
+ *Escribir "El factorial de" + NUMERO + " es:" + FACTORIAL
+ *FIN */
 
 public class ejercicioCuatro {
 
