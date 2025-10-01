@@ -16,7 +16,7 @@ import java.util.Scanner;
  * escribir pares
  * FIN */
 
-public class ejercicioNueve {
+public class ejercicio9 {
 
 	public static void main(String[] args) {
 

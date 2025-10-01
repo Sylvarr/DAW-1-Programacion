@@ -20,7 +20,7 @@ import java.util.Scanner;
  * SI NO
  * Escribir mayor*/
 
-public class ejercicioSeis {
+public class ejercicio6 {
 
 	public static void main(String[] args) {
 

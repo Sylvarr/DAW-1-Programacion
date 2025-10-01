@@ -36,7 +36,7 @@ consulta de saldo.*/
  *  Escribir "Gracias por usar el cajero automático.*/
 
 
-public class ejercicioDiez {
+public class ejercicio10 {
 
 	public static void main(String[] args) {
 

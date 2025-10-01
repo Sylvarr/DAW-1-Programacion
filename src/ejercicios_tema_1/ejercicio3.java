@@ -11,7 +11,7 @@ import java.util.Scanner;
  * ESCRIBIR "El numero es impar
  * FIN*/
 
-public class ejercicioTres {
+public class ejercicio3 {
 
 	public static void main(String[] args) {
 		

@@ -34,7 +34,7 @@ meter hasta cinco numeros*/
  * 2. Ya que trabajamos solo con int (numero enteros), va a ver perdida de informacion
  * cuando el resultado sea un float (tenga decimales) */
 
-public class ejercicioSiete {
+public class ejercicio7 {
 
 	public static void main(String[] args) {
 

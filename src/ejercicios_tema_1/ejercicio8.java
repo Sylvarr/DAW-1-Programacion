@@ -11,7 +11,7 @@ al 10. */
  * 	escribir numero "x" i = x*i 
  * FIN*/
 
-public class ejercicioOcho {
+public class ejercicio8 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

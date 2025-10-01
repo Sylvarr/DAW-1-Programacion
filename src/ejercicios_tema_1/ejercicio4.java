@@ -14,7 +14,7 @@ de todos los números enteros positivos hasta ese número).*/
  *Escribir "El factorial de" + NUMERO + " es:" + FACTORIAL
  *FIN */
 
-public class ejercicioCuatro {
+public class ejercicio4 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

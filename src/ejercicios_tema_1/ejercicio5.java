@@ -15,7 +15,7 @@ negativo o cero.*/
  * escribir "n es positivo"
  * FIN*/
 
-public class ejercicioCinco {
+public class ejercicio5 {
 
 	public static void main(String[] args) {
 		
